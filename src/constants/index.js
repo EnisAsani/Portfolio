@@ -240,7 +240,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: movieland,
+    image: carrent,
     source_code_link: "https://github.com/",
   },
   {
@@ -261,7 +261,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: postpage,
+    image: jobit,
     source_code_link: "https://github.com/",
   },
 ];
