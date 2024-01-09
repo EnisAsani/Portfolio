@@ -29,6 +29,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import gameon from "./GameOnSnap.png"
+import movieland from "./movieLandSnap.png"
+import postpage from "./postPageSnap.png"
+
 
 export {
   logo,
@@ -59,4 +63,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  gameon,
+  movieland,
+  postpage
 };
