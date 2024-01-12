@@ -220,7 +220,7 @@ const projects = [
       },
     ],
     image: gameon,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://sparkly-kringle-64efb0.netlify.app/",
   },
   {
     name: "Movie Land",
@@ -240,8 +240,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: movieland,
+    source_code_link: "https://idyllic-blini-5da974.netlify.app/",
   },
   {
     name: "Post Page",
@@ -261,8 +261,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: postpage,
+    source_code_link: "https://joyful-centaur-7a4909.netlify.app/",
   },
 ];
 

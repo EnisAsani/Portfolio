@@ -30,8 +30,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import gameon from "./GameOnSnap.png"
-// import movieland from "./movieLandSnap.png"
-// import postpage from "./postPageSnap.png"
+import movieland from "./movieland.png"
+import postpage from "./postpage.png"
 
 
 export {
@@ -64,6 +64,6 @@ export {
   jobit,
   tripguide,
   gameon,
-  // movieland,
-  // postpage
+  movieland,
+  postpage
 };
